@@ -1,0 +1,1 @@
+﻿https://www.bizstream.com/blog/timer-triggered-azure-functions-in-c-with-net-6/

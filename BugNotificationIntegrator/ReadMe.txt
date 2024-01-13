@@ -1,0 +1,1 @@
+﻿https://www.c-sharpcorner.com/article/azure-serverless-functions-with-real-world-scenario/
